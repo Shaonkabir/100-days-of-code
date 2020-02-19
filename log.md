@@ -24,7 +24,6 @@
 
 ### Day 3: Feb 18, Thuesday
 
-
 **Today's Progess**: Solved a fontend task by entprtaher/Taher vai
 
 **Thoughts**: I can't code for 3 days because my laptop damaged while working. I've fixed all issues already.
@@ -32,5 +31,15 @@ Today I've solved a Frontend Task where I've writen two function to prevent Clic
 Check [Prevent Click Guideline](https://github.com/automatio-co/automatio-intro-tasks/blob/master/Tasks/Front_End/Front_End_Task_Prevent_Clicks.md).
 I've to Refactor these coolest funcitions later for better performence. 
 
-**Link(s) to work**:
+**Link to work**:
 1. [Prevent Clicks](https://github.com/Shaonkabir/frontend-task)
+
+### Day 4: Feb 19, Wednesday
+
+**Today's Progess**: Solve _Fibonacci Number Algorithms_ and learn about Strees Testing
+
+**Thoughts**: I've solved a Popular JavaScript Algorithms named "Fibonacci Number" as a part of #100DaysOfAlgorithm and Learned about Headless Chrome and Browser Testing (Strees Testing). I'm going to complete a JavaScript Testing Course by @kentcdodds. He is awesome teacher. There's no alternatives of Testing.
+I've forked a repo for practicing JavaScript Algorithms. [Here it is!](https://github.com/Shaonkabir/awesome-algorithms)
+
+**Link to work**:
+1. [Fibonacci Number](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/factorize_a_number.js)
