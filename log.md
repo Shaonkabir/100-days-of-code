@@ -21,3 +21,16 @@
 **Link(s) to work**:
 1. [Mutation - JavaScript Algorithms](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/mutation.js)
 2. [CSS Flexbox](https://github.com/Shaonkabir/learn-flex/tree/master)
+
+### Day 3: Feb 18, Thuesday
+
+
+**Today's Progess**: Solved a fontend task by entprtaher/Taher vai
+
+**Thoughts**: I can't code for 3 days because my laptop damaged while working. I've fixed all issues already.
+Today I've solved a Frontend Task where I've writen two function to prevent Click events on page and another for Events.
+Check [Prevent Click Guideline](https://github.com/automatio-co/automatio-intro-tasks/blob/master/Tasks/Front_End/Front_End_Task_Prevent_Clicks.md).
+I've to Refactor these coolest funcitions later for better performence. 
+
+**Link(s) to work**:
+1. [Prevent Clicks](https://github.com/Shaonkabir/frontend-task)
