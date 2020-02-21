@@ -55,3 +55,14 @@ Finally I'm available as @shaonkabir8 on internet. Hurray!!
 
 **Link to work**:
 1. [Find Vowels](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/find-vowels.js)
+
+### Day 4: Feb 21, Friday
+
+**Today's Progess**: start to create a super sexy projects to Find Movie [Movie Finder]
+
+**Thoughts**: Finally, I've started building Movie Finder application using MovieDB API. It would be the best work of my React Dev Career.I'll implement many features on it.\
+I've practice _Algorithms_ which i've done yet.\
+It's for today. Actually I can't practice more due to 21 Feb (Internation Mother Language Day)
+
+**Link to work**:
+1. [Movie Finder Application](https://github.com/shaonkabir8/movie-finder)
