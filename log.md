@@ -7,10 +7,10 @@
 **Thoughts**: Few days ago, I've completed JavaScript Algroithms from freecodecamp. Now I'm going to practice more to level my craft up. If I practice 1 Algorithms everyday, after 100 Days later, It'll be 100 Algorithms which is almost a lot. That's my current target.
 
 **Link(s) to work**:
-1. [Palindrome Checker](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/palindrome-checker.js)
-2. [Factorialize a Number](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/factorize_a_number.js)
-3. [Find the Longest Word in a String](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/longest-word-finder.js)
-4. [Reverse a String](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/reverse-a-string.js)
+1. [Palindrome Checker](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/palindrome-checker.js)
+2. [Factorialize a Number](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/factorize_a_number.js)
+3. [Find the Longest Word in a String](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/longest-word-finder.js)
+4. [Reverse a String](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/reverse-a-string.js)
 
 ### Day 2: Feb 14, Friday
 
@@ -19,8 +19,8 @@
 **Thoughts**: I just watched a tutorial of @bradtraversy on Flexbox. It's awesome. I need to master on it. After that I'll learn CSS Grid and create my own CSS Framework combining Flex+Grid._I just need to create a CSS Framework to learn CSS deeply and avoid using Framework (like: Bootstrap) in a small project!_
 
 **Link(s) to work**:
-1. [Mutation - JavaScript Algorithms](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/mutation.js)
-2. [CSS Flexbox](https://github.com/Shaonkabir/learn-flex/tree/master)
+1. [Mutation - JavaScript Algorithms](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/mutation.js)
+2. [CSS Flexbox](https://github.com/shaonkabir8/learn-flex/tree/master)
 
 ### Day 3: Feb 18, Thuesday
 
@@ -32,14 +32,26 @@ Check [Prevent Click Guideline](https://github.com/automatio-co/automatio-intro-
 I've to Refactor these coolest funcitions later for better performence. 
 
 **Link to work**:
-1. [Prevent Clicks](https://github.com/Shaonkabir/frontend-task)
+1. [Prevent Clicks](https://github.com/shaonkabir8/frontend-task)
 
 ### Day 4: Feb 19, Wednesday
 
 **Today's Progess**: Solve _Fibonacci Number Algorithms_ and learn about Strees Testing
 
-**Thoughts**: I've solved a Popular JavaScript Algorithms named "Fibonacci Number" as a part of #100DaysOfAlgorithm and Learned about Headless Chrome and Browser Testing (Strees Testing). I'm going to complete a JavaScript Testing Course by @kentcdodds. He is awesome teacher. There's no alternatives of Testing.
-I've forked a repo for practicing JavaScript Algorithms. [Here it is!](https://github.com/Shaonkabir/awesome-algorithms)
+**Thoughts**: I've solved a Popular JavaScript Algorithms named "Fibonacci Number" as a part of #100DaysOfAlgorithm and Learned about Headless Chrome and Browser Testing (Strees Testing).
+I'm going to complete a JavaScript Testing Course by @kentcdodds. He is awesome teacher. There's no alternatives of Testing.\
+I've forked a repo for practicing JavaScript Algorithms. [Here it is!](https://github.com/shaonkabir8/awesome-algorithms)
 
 **Link to work**:
-1. [Fibonacci Number](https://github.com/Shaonkabir/JavaScript-algorithms/blob/master/factorize_a_number.js)
+1. [Fibonacci Number](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/fibonacci.js)
+
+### Day 4: Feb 20, Thursday
+
+**Today's Progess**: Solve an _Algorithms_ named "Find Vowel"
+
+**Thoughts**: I've solved a Popular JavaScript Algorithms named "Find Vowel". Basically It'll count the vowel number from a String and print it out on console.\
+I just created a well commented gist to remove White Space from a String or Array. [Here](https://gist.github.com/shaonkabir8/9cdbf5116e0f45b6578d1287e11cbb28) it is.\
+Finally I'm available as @shaonkabir8 on internet. Hurray!!
+
+**Link to work**:
+1. [Find Vowels](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/find-vowels.js)
