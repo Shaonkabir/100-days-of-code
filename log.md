@@ -66,3 +66,14 @@ It's for today. Actually I can't practice more due to 21 Feb (Internation Mother
 
 **Link to work**:
 1. [Movie Finder Application](https://github.com/shaonkabir8/movie-finder)
+
+### Day 4: Feb 22, Saturday
+
+**Today's Progess**: complete a freecodecamp Frontend Projects.
+
+**Thoughts**: I've completed a Frontend Projects named "Drum Machine" of freecodecamp. I'd build exact same application with HTML,CSS,JS while learning Vanilla JavaScript through the super sexy course of @wesbos named "JavaScript30".\
+Today I've re-build it with React (use SCSS instead of regular CSS) and added extra functionalities.\
+Unfortunately can't practice _Algorithms_ today..
+
+**Link to work**:
+1. [Drum Machine](https://github.com/shaonkabir8/drum-machine)
