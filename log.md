@@ -77,3 +77,15 @@ Unfortunately can't practice _Algorithms_ today..
 
 **Link to work**:
 1. [Drum Machine](https://github.com/shaonkabir8/drum-machine)
+
+### Day 4: Feb 23, Sunday
+
+**Today's Progess**: deploy Drum Kit Application and make a Header on Movie Finder App
+
+**Thoughts**: Finished building Drum Machine Application and Deployed on Netlify.Though some todo's aren't completed yet. I'll do those tasks later.\
+Finally modified CRA Boilerplate into my folder structure. Everytime i've to do exact same task. To avoid these boring task, I've created React Boilerplate.\
+Started Building Movie Finder Application.\ I'll build it along with practicing Freecodecamp
+**Link(s) to work**:
+1. [Drum Machine - Live Demo](https://react-drum-kit.netlify.com)
+2. [React Boilerplate](https://github.com/shaonkabir8/react-boilerplate.git)
+3. [Movie Finder App - Github](https://github.com/shaonkabir8/movie-finder)
