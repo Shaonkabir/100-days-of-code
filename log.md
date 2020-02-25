@@ -45,7 +45,7 @@ I've forked a repo for practicing JavaScript Algorithms. [Here it is!](https://g
 **Link to work**:
 1. [Fibonacci Number](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/fibonacci.js)
 
-### Day 4: Feb 20, Thursday
+### Day 5: Feb 20, Thursday
 
 **Today's Progess**: Solve an _Algorithms_ named "Find Vowel"
 
@@ -56,7 +56,7 @@ Finally I'm available as @shaonkabir8 on internet. Hurray!!
 **Link to work**:
 1. [Find Vowels](https://github.com/shaonkabir8/JavaScript-algorithms/blob/master/find-vowels.js)
 
-### Day 4: Feb 21, Friday
+### Day 6: Feb 21, Friday
 
 **Today's Progess**: start to create a super sexy projects to Find Movie [Movie Finder]
 
@@ -67,7 +67,7 @@ It's for today. Actually I can't practice more due to 21 Feb (Internation Mother
 **Link to work**:
 1. [Movie Finder Application](https://github.com/shaonkabir8/movie-finder)
 
-### Day 4: Feb 22, Saturday
+### Day 7: Feb 22, Saturday
 
 **Today's Progess**: complete a freecodecamp Frontend Projects.
 
@@ -78,7 +78,7 @@ Unfortunately can't practice _Algorithms_ today..
 **Link to work**:
 1. [Drum Machine](https://github.com/shaonkabir8/drum-machine)
 
-### Day 4: Feb 23, Sunday
+### Day 8: Feb 23, Sunday
 
 **Today's Progess**: deploy Drum Kit Application and make a Header on Movie Finder App
 
@@ -90,7 +90,7 @@ Started Building Movie Finder Application.\ I'll build it along with practicing 
 2. [React Boilerplate](https://github.com/shaonkabir8/react-boilerplate.git)
 3. [Movie Finder App - Github](https://github.com/shaonkabir8/movie-finder)
 
-### Day 4: Feb 24, Monday
+### Day 9: Feb 24, Monday
 
 **Today's Progess**: Started working Movie Finder Application and a task by my Mentor Taher vai 
 
