@@ -89,3 +89,13 @@ Started Building Movie Finder Application.\ I'll build it along with practicing 
 1. [Drum Machine - Live Demo](https://react-drum-kit.netlify.com)
 2. [React Boilerplate](https://github.com/shaonkabir8/react-boilerplate.git)
 3. [Movie Finder App - Github](https://github.com/shaonkabir8/movie-finder)
+
+### Day 4: Feb 24, Monday
+
+**Today's Progess**: Started working Movie Finder Application and a task by my Mentor Taher vai 
+
+**Thoughts**: Though I've started working on Movie Finder App but I've to stop working on it for now. Because my mentor give a task to complete. I'm currently working on that project !
+
+**Link(s) to work**:
+1. [Movie Finder App - Github](https://github.com/shaonkabir8/movie-finder)
+2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
