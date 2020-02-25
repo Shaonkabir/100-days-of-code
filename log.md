@@ -99,3 +99,16 @@ Started Building Movie Finder Application.\ I'll build it along with practicing 
 **Link(s) to work**:
 1. [Movie Finder App - Github](https://github.com/shaonkabir8/movie-finder)
 2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
+
+### Day 10: Feb 25, Thuesday
+
+**Today's Progess**: complete almost 70% of my previous_days's Task named "_Scrapping Playground_" given by Taher vai.
+
+**Thoughts**: [Here's](http://scraper-playground.surge.sh/#/) the _Target_ website.\
+I'm almost done.Just a couple of _things to do_.\
+1. Reload Current Page without losing Data/ Pagination.\
+2. Popup a Modal for each Items (Approxi  mately 1000 Items). I can easily popup a modal but, It's not better way which i'm doing. I just have to iterate 1000 times and render the modal exact same number! It's Horrible!!
+
+**Link(s) to work**:
+1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
+2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
