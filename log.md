@@ -123,3 +123,13 @@ I'm almost done.Just a couple of _things to do_.\
 **Link(s) to work**:
 1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
 2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
+
+### Day 12: Feb 27, Thursday
+
+**Today's Progess**: Started working on Movie Finder Application
+
+**Thoughts**: I've started working on Movie Finder App again. But different approch this time. I'm going to build it with Gatsby for Better Performence and Extra facilities like: Lazy Loading\
+
+**Link(s) to work**:
+1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
+2. [Live Demo](https://latest-movie.netlify.com)
