@@ -112,3 +112,14 @@ I'm almost done.Just a couple of _things to do_.\
 **Link(s) to work**:
 1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
 2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
+
+### Day 11: Feb 26, Wednesday
+
+**Today's Progess**: complete almost 95% of my previous_days's Task named "_Scrapping Playground_" given by Taher vai.
+
+**Thoughts**: [Here's](http://scraper-playground.surge.sh/#/) the _Target_ website.\
+I'm almost done.Just a couple of _things to do_.\
+1. Reload Current Page without losing Data/ Pagination.\
+**Link(s) to work**:
+1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
+2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
