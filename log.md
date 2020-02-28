@@ -133,3 +133,15 @@ I'm almost done.Just a couple of _things to do_.\
 **Link(s) to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
 2. [Live Demo](https://latest-movie.netlify.com)
+
+### Day 13: Feb 28, Friday
+
+**Today's Progess**: Continue working on Movie Finder App
+
+**Thoughts**: currently working on Movie Finder Application. Today i've create a initial struckture for movie app. I'm trying to get rid of boring Bootstrap!!\
+I've create a Repo for Frontend Dev [Section Practice].\
+Today i animate a checkbox to toggle background color. It's cool and crazy.
+
+**Link(s) to work**:
+1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
+2. [Toggle Light](https://github.com/shaonkabir8/section-practice)
