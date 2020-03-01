@@ -145,3 +145,11 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 **Link(s) to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
 2. [Toggle Light](https://github.com/shaonkabir8/section-practice)
+
+### Day 14: Feb 29, Saturday
+
+**Today's Progess**: Continue working on Movie Finder App
+
+**Thoughts**: currently working on Movie Finder Application. I'll finish working within next two days.
+**Link(s) to work**:
+1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
