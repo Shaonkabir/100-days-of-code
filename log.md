@@ -151,5 +151,15 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 **Today's Progess**: Continue working on Movie Finder App
 
 **Thoughts**: currently working on Movie Finder Application. I'll finish working within next two days.
-**Link(s) to work**:
+**Link to work**:
+1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
+
+
+### Day 15: Mar 01, Sunday
+
+**Today's Progess**: Change a lot Movie _Finder Application_.
+
+**Thoughts**: I've worked all day long on this project. Fetched data from MovieDB API and rendered them on DOM. After that added Searching Functionalities.\
+Currently working to Sort data by Category/Genres.
+**Link to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
