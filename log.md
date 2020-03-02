@@ -163,3 +163,12 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 Currently working to Sort data by Category/Genres.
 **Link to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
+
+### Day 16: Mar 02, Monday
+
+**Today's Progess**: Practice Section design and trying create a _Chrome Extension_.
+
+**Thoughts**: I've worked on designing a Humberger Menu with Dropdown menu support. I've to use it almost every projects. Now a days, I'm designing without Bootstrap ! Hurray !! It's a great experience. Learning _CSS Flexbox_ working on these projects writing raw codes.\
+Unfortunately got a bug working on _Gatsby Movie Application_. It's because of using _Windows_. I should forget windows forever during development. It's Fucking functionalities are just boring!
+**Link to work**:
+1. [Humberger Menu - Github Repo](https://github.com/shaonkabir8/section-practice/tree/master/humberger-menu)
