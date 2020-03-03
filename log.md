@@ -154,7 +154,6 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 **Link to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
 
-
 ### Day 15: Mar 01, Sunday
 
 **Today's Progess**: Change a lot Movie _Finder Application_.
@@ -172,3 +171,15 @@ Currently working to Sort data by Category/Genres.
 Unfortunately got a bug working on _Gatsby Movie Application_. It's because of using _Windows_. I should forget windows forever during development. It's Fucking functionalities are just boring!
 **Link to work**:
 1. [Humberger Menu - Github Repo](https://github.com/shaonkabir8/section-practice/tree/master/humberger-menu)
+
+### Day 17: Mar 03, Thuesday
+
+**Today's Progess**: Finally Strat on my desire project. _Flexy, CSS FRAMEWORK_
+
+**Thoughts**: I've started working on my own css framework project. I just named it 'Flexy' as it based on Flexbox.\
+Crated a repo already.I just need to do a lot of things. Within next 3 Month, I'll release 1.0 Version.\
+I just created my very first chrome extension today! Hurray!!
+**Link(s) to work**:
+1. [Flexy - CSS Framework](https://github.com/shaonkabir8/flexy)
+2. [Flexy idea - Privet Repo](https://github.com/shaonkabir8/flexy-idea/tree/master)
+3. [Chrome Extension](https://github.com/shaonkabir8/chrome-extension)
