@@ -183,3 +183,15 @@ I just created my very first chrome extension today! Hurray!!
 1. [Flexy - CSS Framework](https://github.com/shaonkabir8/flexy)
 2. [Flexy idea - Privet Repo](https://github.com/shaonkabir8/flexy-idea/tree/master)
 3. [Chrome Extension](https://github.com/shaonkabir8/chrome-extension)
+
+### Day 18: Mar 04, Wednesday
+
+**Today's Progess**: Start Course of Jonas named "Advaned CSS"
+
+**Thoughts**: Finally enrolled on css course of Jonas. He is an awesome teacher.\
+Started a project named "Natours". It's basically a practical project to learn pure css animation without JavaScript.
+    What I learn Today:-\
+    1. CSS super coolest animation using `@keyframes`. [Animation like AOS(Animate On Scroll)]
+    2. Lot more about `transform` property. I've used a lot before. I'm learning it deeply. It's a great experience.
+**Link to work**:
+1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
