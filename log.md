@@ -202,3 +202,12 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
+
+### Day 19: Mar 05, Thursday
+
+**Today's Progess**: Continue Advanced CSS course of Jonas. Learn some core features of _SASS_
+
+**Thoughts**: There's a lot of things to learn. I can create coolest animations only using pure css. now a days, pure css can do many many things which i don't have any idea yet. But luckily, I'm going to learn these coolest staff..! It's crazy
+
+**Link to work**:
+1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
