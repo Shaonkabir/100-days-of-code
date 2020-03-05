@@ -85,6 +85,7 @@ Unfortunately can't practice _Algorithms_ today..
 **Thoughts**: Finished building Drum Machine Application and Deployed on Netlify.Though some todo's aren't completed yet. I'll do those tasks later.\
 Finally modified CRA Boilerplate into my folder structure. Everytime i've to do exact same task. To avoid these boring task, I've created React Boilerplate.\
 Started Building Movie Finder Application.\ I'll build it along with practicing Freecodecamp
+
 **Link(s) to work**:
 1. [Drum Machine - Live Demo](https://react-drum-kit.netlify.com)
 2. [React Boilerplate](https://github.com/shaonkabir8/react-boilerplate.git)
@@ -119,7 +120,8 @@ I'm almost done.Just a couple of _things to do_.\
 
 **Thoughts**: [Here's](http://scraper-playground.surge.sh/#/) the _Target_ website.\
 I'm almost done.Just a couple of _things to do_.\
-1. Reload Current Page without losing Data/ Pagination.\
+1. Reload Current Page without losing Data/ Pagination.
+   
 **Link(s) to work**:
 1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
 2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
@@ -151,6 +153,7 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 **Today's Progess**: Continue working on Movie Finder App
 
 **Thoughts**: currently working on Movie Finder Application. I'll finish working within next two days.
+
 **Link to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
 
@@ -160,6 +163,7 @@ Today i animate a checkbox to toggle background color. It's cool and crazy.
 
 **Thoughts**: I've worked all day long on this project. Fetched data from MovieDB API and rendered them on DOM. After that added Searching Functionalities.\
 Currently working to Sort data by Category/Genres.
+
 **Link to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
 
@@ -169,6 +173,7 @@ Currently working to Sort data by Category/Genres.
 
 **Thoughts**: I've worked on designing a Humberger Menu with Dropdown menu support. I've to use it almost every projects. Now a days, I'm designing without Bootstrap ! Hurray !! It's a great experience. Learning _CSS Flexbox_ working on these projects writing raw codes.\
 Unfortunately got a bug working on _Gatsby Movie Application_. It's because of using _Windows_. I should forget windows forever during development. It's Fucking functionalities are just boring!
+
 **Link to work**:
 1. [Humberger Menu - Github Repo](https://github.com/shaonkabir8/section-practice/tree/master/humberger-menu)
 
@@ -179,6 +184,7 @@ Unfortunately got a bug working on _Gatsby Movie Application_. It's because of u
 **Thoughts**: I've started working on my own css framework project. I just named it 'Flexy' as it based on Flexbox.\
 Crated a repo already.I just need to do a lot of things. Within next 3 Month, I'll release 1.0 Version.\
 I just created my very first chrome extension today! Hurray!!
+
 **Link(s) to work**:
 1. [Flexy - CSS Framework](https://github.com/shaonkabir8/flexy)
 2. [Flexy idea - Privet Repo](https://github.com/shaonkabir8/flexy-idea/tree/master)
@@ -189,9 +195,10 @@ I just created my very first chrome extension today! Hurray!!
 **Today's Progess**: Start Course of Jonas named "Advaned CSS"
 
 **Thoughts**: Finally enrolled on css course of Jonas. He is an awesome teacher.\
-Started a project named "Natours". It's basically a practical project to learn pure css animation without JavaScript.
-    What I learn Today:-\
-    1. CSS super coolest animation using `@keyframes`. [Animation like AOS(Animate On Scroll)]
-    2. Lot more about `transform` property. I've used a lot before. I'm learning it deeply. It's a great experience.
+Started a project named "Natours". It's basically a practical project to learn pure css animation without JavaScript.\
+What I learn Today:-\
+1. CSS super coolest animation using `@keyframes`. [Animation like AOS(Animate On Scroll)]
+2. Lot more about `transform` property. I've used a lot before. I'm learning it deeply. It's a great experience.
+
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
