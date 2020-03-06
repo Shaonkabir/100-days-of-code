@@ -211,3 +211,12 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
+
+### Day 20: Mar 06, Friday
+
+**Today's Progess**: Learned some coolest css effects along with Jonas. I hope to finish this within next day[March 7]. I'm going through all the concept slowly to learn effectively. The 'Property' i've been using atleast for 3 years, are going to learn them from behind the scence. It's a crazy experience.
+
+**Thoughts**: There's a lot of things to learn in css. I was dependable on Bootstrap which is really a bad habbit. I'm going to give this habbit up.!! Feelings Happy :) After finishing this entire course, I'll build my own css framework _"Flexy"_
+
+**Link to work**:
+1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
