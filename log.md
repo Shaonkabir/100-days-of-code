@@ -220,3 +220,15 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
+
+### Day 21: Mar 07, Saturday
+
+**Today's Progess**: Worked on 'Natours' Projects. I just learned a lot cool features of CSS3. Before a month, If i need to have a overlay on a section, I use `::after` psudeo class to create the effects. But Today I Lerned to do these cool effect just writing only one line of css.\
+
+`background-image: linear-gradient(rgba(COLOR_VALUE, OPACTITY))`
+ 
+
+**Thoughts**: It's a crazy experience to implement all these coolest effects using pure css.
+
+**Link to work**:
+1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
