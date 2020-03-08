@@ -232,3 +232,12 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
+
+### Day 22: Mar 08, Sunday
+
+**Today's Progess**: Almost finish the 'Natours' project. 80% of the entire work has already done. Today I worked on a footer section and learn some cool animations can be applied on Footer. Obviously I've already deployed this on `Netlify`
+
+**Thoughts**: I'm super excited to learn all these coolest features.
+
+**Link to work**:
+1. [Natours - Deployed Version](https://adventurous.netlify.com/)
