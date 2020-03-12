@@ -256,3 +256,20 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Movie Finder - Github repo](https://github.com/shaonkabir8/gatsby-movie-finder-app/)
+
+### Day 25: Mar 11, Wednesday
+
+**Today's Progess**: I've tried creating Google Chrome ext along with Coding Train.
+
+**Thoughts**: coding train is a youtube channel from india. There's a ton of solid fundamentals courses that deserve salut and respect. It's an amazing experience to code with coding train
+
+**Link to work**:
+1. [Chrome Ext Repo](https://github.com/shaonkabir8/chrome-extension/)
+
+### Day 26: Mar 12, Thursday
+
+**Today's Progess**: Today I've created a Google chrome extenstion for New Tab. I named it 'Beautiful New Tab'. When i open a new tab, it'll override default fucking page. Instead, it'll show a beautiful page with realtime clock and smooth animation.
+**Thoughts**: I'm super excited to learn all these coolest staffs of Google Chrome. I'll create some existing chrome extension first with React.. I'm super excited
+
+**Link to work**:
+1. [Beautiful New Tab - Chrome Ext](https://github.com/shaonkabir8/chrome-extension/new-tab)
