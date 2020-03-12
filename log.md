@@ -248,3 +248,11 @@ What I learn Today:-\
 
 **Thoughts**: I'm tired watching drama outside me. It's boring!! Fuck Society !!
 
+### Day 24: Mar 10, Thuesday
+
+**Today's Progess**: Worked on Gatsby Movie Finder Application. I've redesign the entire app. I just remove `styled-components` and add `SASS (BEM) + 7-1 Architechure pattern`. 
+
+**Thoughts**: It's took too much time. I'm tired now.....
+
+**Link to work**:
+1. [Movie Finder - Github repo](https://github.com/shaonkabir8/gatsby-movie-finder-app/)
