@@ -241,3 +241,10 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Natours - Deployed Version](https://adventurous.netlify.com/)
+
+### Day 23: Mar 09, Monday
+
+**Today's Progess**: Pause learning pure css animations along with Jonas for variour reason. I've started redesigning my [portfolio website](https://shaonkabir.netlify.com) . I wanna customize Brittany's theme to do it quickly. I need a job.
+
+**Thoughts**: I'm tired watching drama outside me. It's boring!! Fuck Society !!
+
