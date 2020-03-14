@@ -84,7 +84,8 @@ Unfortunately can't practice _Algorithms_ today..
 
 **Thoughts**: Finished building Drum Machine Application and Deployed on Netlify.Though some todo's aren't completed yet. I'll do those tasks later.\
 Finally modified CRA Boilerplate into my folder structure. Everytime i've to do exact same task. To avoid these boring task, I've created React Boilerplate.\
-Started Building Movie Finder Application.\ I'll build it along with practicing Freecodecamp
+Started Building Movie Finder Application.\
+I'll build it along with practicing Freecodecamp
 
 **Link(s) to work**:
 1. [Drum Machine - Live Demo](https://react-drum-kit.netlify.com)
@@ -106,8 +107,8 @@ Started Building Movie Finder Application.\ I'll build it along with practicing 
 **Today's Progess**: complete almost 70% of my previous_days's Task named "_Scrapping Playground_" given by Taher vai.
 
 **Thoughts**: [Here's](http://scraper-playground.surge.sh/#/) the _Target_ website.\
-I'm almost done.Just a couple of _things to do_.\
-1. Reload Current Page without losing Data/ Pagination.\
+I'm almost done.Just a couple of _things to do_.
+1. Reload Current Page without losing Data/ Pagination.
 2. Popup a Modal for each Items (Approxi  mately 1000 Items). I can easily popup a modal but, It's not better way which i'm doing. I just have to iterate 1000 times and render the modal exact same number! It's Horrible!!
 
 **Link(s) to work**:
@@ -119,7 +120,7 @@ I'm almost done.Just a couple of _things to do_.\
 **Today's Progess**: complete almost 95% of my previous_days's Task named "_Scrapping Playground_" given by Taher vai.
 
 **Thoughts**: [Here's](http://scraper-playground.surge.sh/#/) the _Target_ website.\
-I'm almost done.Just a couple of _things to do_.\
+I'm almost done.Just one _things to do_.
 1. Reload Current Page without losing Data/ Pagination.
    
 **Link(s) to work**:
@@ -130,7 +131,7 @@ I'm almost done.Just a couple of _things to do_.\
 
 **Today's Progess**: Started working on Movie Finder Application
 
-**Thoughts**: I've started working on Movie Finder App again. But different approch this time. I'm going to build it with Gatsby for Better Performence and Extra facilities like: Lazy Loading\
+**Thoughts**: I've started working on Movie Finder App again. But different approch this time. I'm going to build it with Gatsby for Better Performence and Extra facilities like: Lazy Loading
 
 **Link(s) to work**:
 1. [Movie Finder - Github Repo](https://github.com/shaonkabir8/gatsby-movie-finder-app)
@@ -196,7 +197,7 @@ I just created my very first chrome extension today! Hurray!!
 
 **Thoughts**: Finally enrolled on css course of Jonas. He is an awesome teacher.\
 Started a project named "Natours". It's basically a practical project to learn pure css animation without JavaScript.\
-What I learn Today:-\
+What I learn Today:-
 1. CSS super coolest animation using `@keyframes`. [Animation like AOS(Animate On Scroll)]
 2. Lot more about `transform` property. I've used a lot before. I'm learning it deeply. It's a great experience.
 
@@ -223,7 +224,7 @@ What I learn Today:-\
 
 ### Day 21: Mar 07, Saturday
 
-**Today's Progess**: Worked on 'Natours' Projects. I just learned a lot cool features of CSS3. Before a month, If i need to have a overlay on a section, I use `::after` psudeo class to create the effects. But Today I Lerned to do these cool effect just writing only one line of css.\
+**Today's Progess**: Worked on 'Natours' Projects. I just learned a lot cool features of CSS3. Before a month, If i need to have a overlay on a section, I use `::after` psudeo class to create the effects. But Today I Lerned to do these cool effect just writing only one line of css.
 
 `background-image: linear-gradient(rgba(COLOR_VALUE, OPACTITY))`
  
@@ -294,7 +295,8 @@ What I learn Today:-\
 
 **Today's Progess**: I've built an awesome Menu. It'll be used for Humberger Menu. Got idea from a video of _Online Tutorials_ Channel. [Here](https://www.youtube.com/watch?v=hW0EVM12b5g) it is. 
 
-**Thoughts**: I'm going to sections like [150 Section Development](https://www.youtube.com/watch?v=RzECqympyFU&list=PLrlBLFXspMS2D2_LscOvKbn0eP82pCZAj). Obviously, I'll create pen at [codepen](codepen.io/shaonkabir8) for live preview along with controlling version on github. I've created a repo to track my updates of wordpress learning. I've to get a job. It's necessary.
- I
+**Thoughts**: I'm going to practice sections like [150 Section Development](https://www.youtube.com/watch?v=RzECqympyFU&list=PLrlBLFXspMS2D2_LscOvKbn0eP82pCZAj) again. Obviously, I'll create pen at [codepen](codepen.io/shaonkabir8) for live preview along with controlling version on github. I've created a repo to track my updates of wordpress learning. I've to get a job. It's necessary.
+
+
 **Link to work**:
 1. [Creative Menu](https://github.com/shaonkabir8/section-practice/tree/master/creative-menu)
