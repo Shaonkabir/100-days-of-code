@@ -273,3 +273,17 @@ What I learn Today:-\
 
 **Link to work**:
 1. [Beautiful New Tab - Chrome Ext](https://github.com/shaonkabir8/chrome-extension/new-tab)
+
+### Day 27: Mar 13, Friday
+
+**Today's Progess**: Today I've added some coolest new features on [Beautiful Tab](https://github.com/shaonkabir8/chrome-extension/new-tab) Chrome extension. I'll update this ext with additional featues and publish it on Chrome ext market.
+
+**Thoughts**: My Plans about *Beautiful Tab ext* :-
+1. This will be exact same like [Momentum](chrome://extensions/?id=laookkfknpbbblfpciffpaejjkokdgca).
+2. I'll make all pro featues of Momentum for free.. hurray!!
+3. It'll about change brightnesss according to weather and obviously Brightness can be controlled.
+4. add a option to keep track TODO. (Small Todo App! Ya!!) and data will be stored in cookie/localstroge
+5. update search option to search as **incognito mood** (Spy :p Ha ha ha) 
+ I
+**Link to work**:
+1. [Beautiful New Tab - Chrome Ext](https://github.com/shaonkabir8/chrome-extension/new-tab)
