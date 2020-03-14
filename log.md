@@ -269,6 +269,7 @@ What I learn Today:-\
 ### Day 26: Mar 12, Thursday
 
 **Today's Progess**: Today I've created a Google chrome extenstion for New Tab. I named it 'Beautiful New Tab'. When i open a new tab, it'll override default fucking page. Instead, it'll show a beautiful page with realtime clock and smooth animation.
+
 **Thoughts**: I'm super excited to learn all these coolest staffs of Google Chrome. I'll create some existing chrome extension first with React.. I'm super excited
 
 **Link to work**:
@@ -284,6 +285,16 @@ What I learn Today:-\
 3. It'll about change brightnesss according to weather and obviously Brightness can be controlled.
 4. add a option to keep track TODO. (Small Todo App! Ya!!) and data will be stored in cookie/localstroge
 5. update search option to search as **incognito mood** (Spy :p Ha ha ha) 
- I
+
+
 **Link to work**:
 1. [Beautiful New Tab - Chrome Ext](https://github.com/shaonkabir8/chrome-extension/new-tab)
+
+### Day 28: Mar 14, Saturday
+
+**Today's Progess**: I've built an awesome Menu. It'll be used for Humberger Menu. Got idea from a video of _Online Tutorials_ Channel. [Here](https://www.youtube.com/watch?v=hW0EVM12b5g) it is. 
+
+**Thoughts**: I'm going to sections like [150 Section Development](https://www.youtube.com/watch?v=RzECqympyFU&list=PLrlBLFXspMS2D2_LscOvKbn0eP82pCZAj). Obviously, I'll create pen at [codepen](codepen.io/shaonkabir8) for live preview along with controlling version on github. I've created a repo to track my updates of wordpress learning. I've to get a job. It's necessary.
+ I
+**Link to work**:
+1. [Creative Menu](https://github.com/shaonkabir8/section-practice/tree/master/creative-menu)
