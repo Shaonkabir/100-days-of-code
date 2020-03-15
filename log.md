@@ -297,6 +297,15 @@ What I learn Today:-
 
 **Thoughts**: I'm going to practice sections like [150 Section Development](https://www.youtube.com/watch?v=RzECqympyFU&list=PLrlBLFXspMS2D2_LscOvKbn0eP82pCZAj) again. Obviously, I'll create pen at [codepen](codepen.io/shaonkabir8) for live preview along with controlling version on github. I've created a repo to track my updates of wordpress learning. I've to get a job. It's necessary.
 
-
 **Link to work**:
 1. [Creative Menu](https://github.com/shaonkabir8/section-practice/tree/master/creative-menu)
+
+
+### Day 29: Mar 15, Sunday
+
+**Today's Progess**: I've built an awesome Clock using CSS Neumorphism technique. Got idea from a video of _Online Tutorials_ Channel. [Click here](https://www.youtube.com/watch?v=weZFfrjF-k4) to check it out. 
+
+**Thoughts**: I'm going to add this analog clock to my chrome extension. **Beautiful Tab**. Also I'm going to learn wordpress along with these coolest staff. It sounds crazy. right ??
+
+**Link to work**:
+1. [Analog Clock](https://github.com/shaonkabir8/section-practice/tree/master/analog-clock)
