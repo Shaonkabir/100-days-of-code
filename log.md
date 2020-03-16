@@ -309,3 +309,14 @@ What I learn Today:-
 
 **Link to work**:
 1. [Analog Clock](https://github.com/shaonkabir8/section-practice/tree/master/analog-clock)
+
+
+### Day 30: Mar 16, Monday
+
+**Today's Progess**: Start working on a web app for the realtime _Coronavirus Statics_. I'm trying my best to make a unique UI for better UX. 
+
+**Thoughts**: Day by day, I'm learning existing ones deeply. It's an awesome experience. Starting of 2020 for my dev career isn't bad.. Ha ha ha!
+
+**Link to work**:
+1. [Coronavirus Statics - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
+2. [Coronavirus Statics - Live preview](https://coronavirus-statics.netlify.com/)
