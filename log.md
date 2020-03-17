@@ -320,3 +320,14 @@ What I learn Today:-
 **Link to work**:
 1. [Coronavirus Statics - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
 2. [Coronavirus Statics - Live preview](https://coronavirus-statics.netlify.com/)
+
+
+### Day 31: Mar 17, Thuesday
+
+**Today's Progess**: almost 90% complete building application to display current status of Coronavirus | Covid - 2019 
+
+**Thoughts**: I've done a lot of things today. feeling Sleepy.!! I've to implement 'Toggle_Light', Loading Spinner and Responsive design on it. It'd be one of my best work!
+
+**Link to work**:
+1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
+2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
