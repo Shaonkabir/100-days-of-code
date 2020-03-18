@@ -331,3 +331,13 @@ What I learn Today:-
 **Link to work**:
 1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
 2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
+
+### Day 32: Mar 18, Wednesday
+
+**Today's Progess**: add Toggle Light Options of current project, 'Coronavirus Prevalence'. I've learn to toggle Sass varibales. It's awesome. But I can do it easily with `Styled components`.
+
+**Thoughts**: Both SASS and Styled components are awesome. I just love both of them.
+
+**Link to work**:
+1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
+2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
