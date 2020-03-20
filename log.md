@@ -115,6 +115,7 @@ I'm almost done.Just a couple of _things to do_.
 1. [Scraping Playground - Privet Repo](https://github.com/shaonkabir8/scraping-playground/)
 2. [Projects - Guideline](https://paper.dropbox.com/doc/Create-a-people-directory--Au6xOZcz9uuPHUBvrIRsCDhgAQ-eOyf4PpEKmq5fZdoGqLPV)
 
+
 ### Day 11: Feb 26, Wednesday
 
 **Today's Progess**: complete almost 95% of my previous_days's Task named "_Scrapping Playground_" given by Taher vai.
@@ -222,6 +223,7 @@ What I learn Today:-
 **Link to work**:
 1. [Natours - Github Repo](https://github.com/shaonkabir8/natours)
 
+
 ### Day 21: Mar 07, Saturday
 
 **Today's Progess**: Worked on 'Natours' Projects. I just learned a lot cool features of CSS3. Before a month, If i need to have a overlay on a section, I use `::after` psudeo class to create the effects. But Today I Lerned to do these cool effect just writing only one line of css.
@@ -287,7 +289,6 @@ What I learn Today:-
 4. add a option to keep track TODO. (Small Todo App! Ya!!) and data will be stored in cookie/localstroge
 5. update search option to search as **incognito mood** (Spy :p Ha ha ha) 
 
-
 **Link to work**:
 1. [Beautiful New Tab - Chrome Ext](https://github.com/shaonkabir8/chrome-extension/new-tab)
 
@@ -300,7 +301,6 @@ What I learn Today:-
 **Link to work**:
 1. [Creative Menu](https://github.com/shaonkabir8/section-practice/tree/master/creative-menu)
 
-
 ### Day 29: Mar 15, Sunday
 
 **Today's Progess**: I've built an awesome Clock using CSS Neumorphism technique. Got idea from a video of _Online Tutorials_ Channel. [Click here](https://www.youtube.com/watch?v=weZFfrjF-k4) to check it out. 
@@ -310,14 +310,13 @@ What I learn Today:-
 **Link to work**:
 1. [Analog Clock](https://github.com/shaonkabir8/section-practice/tree/master/analog-clock)
 
-
 ### Day 30: Mar 16, Monday
 
 **Today's Progess**: Start working on a web app for the realtime _Coronavirus Statics_. I'm trying my best to make a unique UI for better UX. 
 
 **Thoughts**: Day by day, I'm learning existing ones deeply. It's an awesome experience. Starting of 2020 for my dev career isn't bad.. Ha ha ha!
 
-**Link to work**:
+**Link(s) to work**:
 1. [Coronavirus Statics - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
 2. [Coronavirus Statics - Live preview](https://coronavirus-statics.netlify.com/)
 
@@ -328,7 +327,7 @@ What I learn Today:-
 
 **Thoughts**: I've done a lot of things today. feeling Sleepy.!! I've to implement 'Toggle_Light', Loading Spinner and Responsive design on it. It'd be one of my best work!
 
-**Link to work**:
+**Link(s) to work**:
 1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
 2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
 
@@ -338,7 +337,7 @@ What I learn Today:-
 
 **Thoughts**: Both SASS and Styled components are awesome. I just love both of them.
 
-**Link to work**:
+**Link(s) to work**:
 1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
 2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
 
