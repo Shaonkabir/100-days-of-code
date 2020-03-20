@@ -350,3 +350,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
+
+### Day 34: Mar 20, Friday
+
+**Today's Progess**: Again I've started working on 'Natours' project by Jonas. Today I've learned to use Sass `Mixins` for writing Reuseable code-block. I've implement it for `Media Queries`. Sass is awesome. 
+
+**Thoughts**: I'm going to learn css flexbox deeply from Jonas after this project. That would be throught another project named 'Trello'. I wanna master on CSS Flexbox because of creating own `css framework`.
+
+**Link to work**:
+1. [Natours - Live Preview](https://adventurous.netlify.com/)
