@@ -341,3 +341,12 @@ What I learn Today:-
 **Link to work**:
 1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
 2. [Coronavirus Prevalence - Github Repo](https://github.com/shaonkabir8/corona-virus-statics/)
+
+### Day 33: Mar 19, Thursday
+
+**Today's Progess**: 95% work's are completed for 'Coronavirus Prevalence' Project. I'm super exited for lunching this web app. It's amazing.
+
+**Thoughts**: One last things, I've to make the app responsive.
+
+**Link to work**:
+1. [Coronavirus Prevalence - Live preview](https://coronavirus-statics.netlify.com/)
