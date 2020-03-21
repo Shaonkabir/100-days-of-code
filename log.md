@@ -358,3 +358,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Natours - Live Preview](https://adventurous.netlify.com/)
+
+### Day 35: Mar 21, Saturday
+
+**Today's Progess**: I've created a popup with pure css. It's crazy.Today while working on responsive design, I just noticed that I forgot to complete this section. 
+
+**Thoughts**: creating a popup with pure css isn't crazy ? it's awesome. I've learned a lot of coolest staffs of css. thanks jonas.
+
+**Link to work**:
+1. [Natours - Live Preview](https://adventurous.netlify.com/)
