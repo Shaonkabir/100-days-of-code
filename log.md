@@ -376,3 +376,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Natours - Live Preview](https://adventurous.netlify.com/)
+
+### Day 37: Mar 23, Thuesday
+
+**Today's Progess**: Finally completed the `Natours` projects. This learning journey was really awesome.
+
+**Thoughts**: I've just finished such a project where I don't write a single line to JavaScript code for any reason. All the smooth and coolest animations are created with pure css.It's crazy. right ? I've to know more ......!
+
+**Link to work**:
+1. [Natours - Live Preview [Final]](https://adventurous.netlify.com/)
