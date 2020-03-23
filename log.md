@@ -367,3 +367,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Natours - Live Preview](https://adventurous.netlify.com/)
+
+### Day 36: Mar 22, Monday
+
+**Today's Progess**: I just make the entire `Natours` project responsive. That's it for today.
+
+**Thoughts**: I'm little bit tired and worried for some reason. Need to sleep.
+
+**Link to work**:
+1. [Natours - Live Preview](https://adventurous.netlify.com/)
