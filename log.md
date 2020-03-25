@@ -385,3 +385,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Natours - Live Preview [Final]](https://adventurous.netlify.com/)
+
+### Day 38: Mar 24, Wednesday
+
+**Today's Progess**: I've started learning css flexbox along with Jonas. Hope this will be a great journey too like `Natours` project.
+
+**Thoughts**: Today I just learned the property meaning of `Flex Items:- 1. flex-srink, 2. align-content, 3. flex-grow, 4. flex-basic .. and obviously Shorthand for writting flex property`
+
+**Link to work**:
+1. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
