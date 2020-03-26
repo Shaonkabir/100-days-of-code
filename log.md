@@ -403,3 +403,13 @@ What I learn Today:-
 
 **Link to work**:
 1. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
+
+### Day 40: Mar 26, Thursday
+
+**Today's Progess**: I've create Header Section using `Flexbox`. It's a handly solution for creating layout of any website. I'm getting rid of using fucking Bootstrap in every project.
+
+**Thoughts**: I just deploy the site on netlify. I'm going to explore more and more about flexbox...!
+
+**Link(s) to work**:
+1. [Trillo - Live Preview](trillo-booking-app.netlify.com)
+2. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
