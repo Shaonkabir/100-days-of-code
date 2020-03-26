@@ -368,7 +368,7 @@ What I learn Today:-
 **Link to work**:
 1. [Natours - Live Preview](https://adventurous.netlify.com/)
 
-### Day 36: Mar 22, Monday
+### Day 36: Mar 22, Sunday
 
 **Today's Progess**: I just make the entire `Natours` project responsive. That's it for today.
 
@@ -377,7 +377,7 @@ What I learn Today:-
 **Link to work**:
 1. [Natours - Live Preview](https://adventurous.netlify.com/)
 
-### Day 37: Mar 23, Thuesday
+### Day 37: Mar 23, Monday
 
 **Today's Progess**: Finally completed the `Natours` projects. This learning journey was really awesome.
 
@@ -386,11 +386,20 @@ What I learn Today:-
 **Link to work**:
 1. [Natours - Live Preview [Final]](https://adventurous.netlify.com/)
 
-### Day 38: Mar 24, Wednesday
+### Day 38: Mar 24, Thuesday 
 
 **Today's Progess**: I've started learning css flexbox along with Jonas. Hope this will be a great journey too like `Natours` project.
 
 **Thoughts**: Today I just learned the property meaning of `Flex Items:- 1. flex-srink, 2. align-content, 3. flex-grow, 4. flex-basic .. and obviously Shorthand for writting flex property`
+
+**Link to work**:
+1. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
+
+### Day 39: Mar 25, Wednesday
+
+**Today's Progess**: I just create overall layout for `Trello Application`. It's mainly a static hotel/resort/tour ticket booking application. Main focus of this course is to learn `css Flexbox`.
+
+**Thoughts**: Jonas is an awesome mentor. I just fall in love in his teaching style. I've completed the 24 tasks of [Flexbox Foggy](https://flexboxfroggy.com/). It's amazing. Learned a lot more about flexbox..... hurray !!
 
 **Link to work**:
 1. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
