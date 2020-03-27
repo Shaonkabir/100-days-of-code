@@ -411,5 +411,15 @@ What I learn Today:-
 **Thoughts**: I just deploy the site on netlify. I'm going to explore more and more about flexbox...!
 
 **Link(s) to work**:
-1. [Trillo - Live Preview](trillo-booking-app.netlify.com)
+1. [Trillo - Live Preview](https://trillo-booking-app.netlify.com)
 2. [Trillo - Github Repo](https://github.com/shaonkabir8/trillo)
+
+
+### Day 41: Mar 27, Friday
+
+**Today's Progess**: I've completed `Navigation Section`  and First row of `Hotel Review section` of `Trillo Application` with smooth hover effects and coolest tricks of `Flexbox`. I'll complete the entire Application with Next day / 28 March.
+
+**Thoughts**: Flexbox is just amazing. I don't know why I hadn't learnt flexbox yet. I'm super exicted to implement all these tricks and animations on real projects. 
+
+**Link to work**:
+1. [Trillo - Live Preview](https://trillo-booking-app.netlify.com)
