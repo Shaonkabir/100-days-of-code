@@ -423,3 +423,13 @@ What I learn Today:-
 
 **Link to work**:
 1. [Trillo - Live Preview](https://trillo-booking-app.netlify.com)
+
+### Day 42: Mar 28, Saturday
+
+**Today's Progess**: I just skipped continue to `Trillo` for various reasons. I'm still learning css flexbox to master it.
+
+**Thoughts**: Hopefully I'm going to complete the course of wes bos named `What the Flexbox!`. 
+
+**Link to work**:
+1. [Trillo - Live Preview](https://trillo-booking-app.netlify.com)
+
