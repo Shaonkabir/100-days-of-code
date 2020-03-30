@@ -441,3 +441,13 @@ What I learn Today:-
 
 **Link to work**:
 1. [Learn Flexbox - github repo](https://github.com/shaonkabir8/learn-flex)
+
+### Day 44: Mar 30, Monday
+
+**Today's Progess**: I'm learning [Data-Driven Documents (D3)](https://d3js.org/), a JavaScript library to deal with data.\
+ I'm learning from freecodecamp now. actually I'm following my mentor taher vai. He suggests to go through the entire freecodecamp syllabus.
+
+**Thoughts**: I don't know more about it. but i'm going to learn... While covering the lessons of `JSON and API's`, I just learn about `window.navigator`. I haven't seen it before !! It's amazing.  
+
+**Link to work**:
+1. [Geo Location - github repo](https://github.com/shaonkabir8/geo-location)
