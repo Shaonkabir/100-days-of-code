@@ -433,3 +433,11 @@ What I learn Today:-
 **Link to work**:
 1. [Trillo - Live Preview](https://trillo-booking-app.netlify.com)
 
+### Day 43: Mar 29, Sunday
+
+**Today's Progess**: I've almost finish `What the Flexbox!` course of wes bos. It's amazing.. I just fall in love with Flexbox.
+
+**Thoughts**: I'm going to start implementing css flexbox in all my projects from now till the last moment of my career as a dev. But, The coolests part is, I'm going to learn `CSS Grid`. Sounds crazy? Yep... I've to learn these coolest teconology.
+
+**Link to work**:
+1. [Learn Flexbox - github repo](https://github.com/shaonkabir8/learn-flex)
