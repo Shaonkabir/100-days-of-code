@@ -451,3 +451,12 @@ What I learn Today:-
 
 **Link to work**:
 1. [Geo Location - github repo](https://github.com/shaonkabir8/geo-location)
+
+### Day 45: Mar 31, Thuesday
+
+**Today's Progess**: I've learned more about D3 today 
+
+**Thoughts**: I'm tired now  
+
+**Link to work**:
+1. [Geo Location - github repo](https://github.com/shaonkabir8/geo-location)
