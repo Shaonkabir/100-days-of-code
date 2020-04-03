@@ -460,3 +460,11 @@ What I learn Today:-
 
 **Link to work**:
 1. [Geo Location - github repo](https://github.com/shaonkabir8/geo-location)
+
+### Day 45: April 01, Wednesday
+
+**Today's Progess**: I've learned about SVG and SVG animations today. I'm going through a curses of frontend master of Sarah Dsner.
+
+**Thoughts**:  It' fun !
+
+**Link to work**: Worked on Codepen
