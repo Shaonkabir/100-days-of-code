@@ -477,3 +477,14 @@ What I learn Today:-
 
 **Link to work**:
 1. [React Shepherd Project](https://github.com/shaonkabir8/product-compare-project)
+
+### Day 48: April 03, Friday
+
+**Today's Progess**: Success ! I've implemented `react-shepherd` in a react app. Thought it's a dummy website built by me only for this purpose.\
+I've got a roadmap to follow. This is from my mentor Taher vai. He is an awesome person. I've to completed wes bos's all courses.  Hurray!
+
+**Thoughts**: It's awesome experience.
+
+**Link to work**:
+1. [React Shepherd Implementation](https://github.com/shaonkabir8/exp-shepherd)
+
