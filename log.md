@@ -461,10 +461,19 @@ What I learn Today:-
 **Link to work**:
 1. [Geo Location - github repo](https://github.com/shaonkabir8/geo-location)
 
-### Day 45: April 01, Wednesday
+### Day 46: April 01, Wednesday
 
 **Today's Progess**: I've learned about SVG and SVG animations today. I'm going through a curses of frontend master of Sarah Dsner.
 
 **Thoughts**:  It' fun !
 
 **Link to work**: Worked on Codepen
+
+### Day 47: April 02, Thursday
+
+**Today's Progess**: I'm going through a task from my mentor about `react-shepherd`. It's for creating Tours on a webpage. I just have to implement it on a react app.
+
+**Thoughts**:   I'm totally confused. something going wrong. I just can't understand what's goinig on behind the `react-shepherd`.
+
+**Link to work**:
+1. [React Shepherd Project](https://github.com/shaonkabir8/product-compare-project)
