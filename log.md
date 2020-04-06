@@ -488,3 +488,20 @@ I've got a roadmap to follow. This is from my mentor Taher vai. He is an awesome
 **Link to work**:
 1. [React Shepherd Implementation](https://github.com/shaonkabir8/exp-shepherd)
 
+### Day 49: April 04, Saturday
+
+**Today's Progess**: I got my roadmap to go ahead 🔥🔥 I got it yesterday. I've gone through some ES6 featues again.
+
+**Thoughts**: Roadmap and progress is described below\
+🌙 Date: 03.03.2020 - 03.04-2020 ⚡ 1 Month Target:-\
+    🍦 Courses of Wes Bos I've to complete (according to serial):-
+  
+    1. Beginner JavaScript [ 🔥 Running.... ]
+    2. JavaScript30 [ 🔥 1/3 Completed. ⏸ Paused now ]
+    3. ES6 for everyone [ ✔ Completed yet. ]
+    4. CSS Flexbox [ ✔ Completed ]
+    5. CSS Grid [ ❌ Not Completed yet ]  
+
+**Link to work**:
+1. [JavaScript30 - github repo](https://github.com/shaonkabir8/JavaScript30)
+
