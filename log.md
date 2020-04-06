@@ -504,4 +504,14 @@ I've got a roadmap to follow. This is from my mentor Taher vai. He is an awesome
 
 **Link to work**:
 1. [JavaScript30 - github repo](https://github.com/shaonkabir8/JavaScript30)
+   
+### Day 50: April 05, Sunday
+
+**Today's Progess**: JavaScript is awesome 😍.This time I'm learning Core featues of JavaScript along with Wes bos. 
+
+**Thoughts**: ✍ Beginner JavaScript is an awesome course 🔥. I thought it'd be probably for completely beginner 😞. But No!! It can be usefull even for an experienced developer 🔥🔥🔥.  
+
+**Link to work**:
+1. [Drum Kit - #01_of_JavaScript30 ➢ Live Demo](https://drumkit-vanilla-js.netlify.com/)
+2. [Clock - #02_of_JavaScript30 ➢ Live Demo](https://css-js-clock.netlify.com/)   
 
